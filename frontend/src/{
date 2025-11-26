@@ -1,0 +1,1 @@
+test('error boundary renders children when no error', () =
