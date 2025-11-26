@@ -1,0 +1,1 @@
+  test('GET /api/bugs - should return all bugs', async () =
